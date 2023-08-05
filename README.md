@@ -1,8 +1,5 @@
 # Mx Kit Terraria Plugin
 
-![GitHub](https://img.shields.io/github/license/mxtheuz/mx-terraria-kit)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/mxtheuz/mx-terraria-kit)
-
 A simple Terraria plugin that gives an OP kit to a player.
 
 ## Features
